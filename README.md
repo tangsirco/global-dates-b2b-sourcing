@@ -53,22 +53,54 @@ Our international market development activities focus on:
 - Food Ingredient Processors
 
 ---
+## Global Market Coverage & Industrial Buyer Research
 
-## Global Target Markets
+Tangsir Daryanavard Co. focuses on international B2B market research and identifying potential industrial buyers across 12 target countries.
 
-Our initial market research focuses on:
-
+### Europe
 - Germany
-- United Kingdom
-- United States
-- Canada
-- France
 - Italy
+- Sweden
+- Finland
+- Russia
+
+### Middle East & West Asia
 - United Arab Emirates
+- Oman
+- Turkey
+- Armenia
+
+### Asia
 - India
+- China
 - Japan
 
+### Products Covered
+- Dates
+- Date Paste
+- Date Syrup
+- Date Sugar
+
+### Industrial Buyer Research
+
+Our research focuses on identifying:
+
+- Food manufacturers
+- Chocolate and confectionery manufacturers
+- Bakery and biscuit manufacturers
+- Energy bar and protein bar manufacturers
+- Beverage manufacturers
+- Food ingredient importers
+- Industrial ingredient distributors
+
+The objective is to identify real companies, investigate their potential demand for date-based ingredients, and develop international B2B sourcing opportunities.
+
+All buyer information must be supported by verifiable public sources.
+
 These countries represent target markets for research and potential business development, not confirmed commercial relationships.
+
+Import regulations, market access requirements, and applicable trade restrictions must be assessed separately for each country.
+
 
 ---
 
