@@ -177,3 +177,13 @@ This repository will be expanded with:
 **Global Dates & Date Ingredients**
 
 *Connecting international food manufacturers with sourcing opportunities for dates, date paste, date syrup, and date sugar.*
+
+---
+
+## Global Industrial Buyers Directory
+
+Explore our international industrial buyer research for dates, date paste, date syrup, and date sugar.
+
+[View the Global Industrial Buyers Directory](industrial-buyers-directory.md)
+
+*Buyer research is ongoing. Listed companies are potential prospects, not confirmed customers.*
