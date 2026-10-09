@@ -136,4 +136,4 @@ International Business Development
 
 ---
 
-[Return to Main Repository](../README.md) · [View Other Products](../products.md) · [Explore Industrial Applications](../industries/industrial-applications.md) · [Submit a Buyer Inquiry](../contact/buyer-inquiries.md)
+[Return to Main Repository](../README.md) · [View Date Paste](date-paste.md) · [View Date Syrup](date-syrup.md) · [View Date Sugar](date-sugar.md) · [Submit a Buyer Inquiry](../contact/buyer-inquiries.md)
