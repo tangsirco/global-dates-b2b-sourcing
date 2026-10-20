@@ -22,6 +22,10 @@ Our focus includes **Bulk Dates**, **Industrial Date Paste**, **Date Syrup for F
 
 [![WhatsApp](https://img.shields.io/badge/CONTACT_US_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989120821023)
 
+
+[![Official Website](https://img.shields.io/badge/OFFICIAL_WEBSITE-www.tangsirco.com-2563EB?style=for-the-badge)](https://www.tangsirco.com)
+
+
 ## Company Profile
 
 Tangsir Daryanavard Co. develops international B2B sourcing opportunities for dates and date products.
